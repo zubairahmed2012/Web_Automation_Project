@@ -13,6 +13,8 @@ Automation Step:
 10.     Log out
 
 BrowserSetup.java contains the code for the Signup and Signout procedures.
+
 Book_select.java contains the code to select and add to cart the book of হুমায়ুন আহমেদ.
+
 Shopping_Cart.java contains the code to check out the cart and provide the shipping address and other required information.
 

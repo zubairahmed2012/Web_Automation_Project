@@ -1,4 +1,4 @@
-This Java web automation project is finished.This project completes the following task.
+This Java web automation project is executed properly. This project completes the following task.
 
 Automation Step:
 1.      Sign Up using Google

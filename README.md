@@ -18,3 +18,12 @@ Book_select.java contains the code to select and add to cart the book of হু�
 
 Shopping_Cart.java contains the code to check out the cart and provide the shipping address and other required information.
 
+
+Test Case:
+
+Test Case for manual testing can be found here
+https://drive.google.com/drive/folders/1G_kLEUq9iL4b-clKxZW01qpTBjReHSnz?usp=sharing
+
+
+
+
